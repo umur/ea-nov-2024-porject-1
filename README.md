@@ -39,11 +39,11 @@ Real Estate Platform is an innovative online marketplace that aims to revolution
 * Secure messaging functionality for users to communicate directly within the platform.
 * System to notify users about new matches, messages, listings, or updates relevant to their preferences.
 *  Tools for admins to review, approve, or reject listings, profiles, and reviews to maintain platform standards.
- * Admin can Activate/Deactivate students and faculty.
- * Admin can reset passwords.
- * All delete operations should be a soft deletion.
- * Log all user activities on the system.
- * Limit login attempts. If a user try to login with an invalid password more than 5 times, the system will lock the user and make it unable to login for 15 minutes.
+* Admin can Activate/Deactivate users.
+* Admin can reset passwords.
+* All delete operations should be a soft deletion.
+* Log all user activities on the system.
+* Limit login attempts. If a user try to login with an invalid password more than 5 times, the system will lock the user and make it unable to login for 15 minutes.
 
 #### Technical Details
 ---
